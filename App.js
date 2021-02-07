@@ -91,6 +91,6 @@ const styles = StyleSheet.create({
   },
   statusbar: {
     backgroundColor: '#FFCE00',
-    height: 20
+    height: 50
   }
 });
